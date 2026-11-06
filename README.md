@@ -60,10 +60,12 @@ Newest-first sorting compares the ISO date strings as dates. Alphabetical sortin
 5. Wait for GitHub Pages to publish the site. Open the URL shown in the Pages settings and test the search, filters and pagination.
 
 ## Screenshots
-Add your own desktop, tablet and mobile screenshots here after testing the deployed site. For example, create a `screenshots/` folder and embed images using Markdown:
 
-```md
-![Desktop view](screenshots/desktop.png)
-![Tablet view](screenshots/tablet.png)
-![Mobile view](screenshots/mobile.png)
-```
+### Desktop View
+![Desktop Screenshot](screenshots/desktop-1280.png)
+
+### Tablet View
+![Tablet Screenshot](screenshots/tablet-768.png)
+
+### Mobile View
+![Mobile Screenshot](screenshots/mobile-375.png)
